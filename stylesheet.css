@@ -13,11 +13,11 @@ body {
 }
 .arpi{
       position: absolute;
-	  top: 79%;
+	  top: 80%;
 	  left: 43%;
-	  width: 75px;
-	  height: 85px;
-	  border-radius: 85px;
+	  width: 55px;
+	  height: 65px;
+	  border-radius: 65px;
 	  box-shadow: 0px 0px 20px 5px rgb(211, 16, 32);
 }
 .peach {
